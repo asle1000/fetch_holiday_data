@@ -1,0 +1,1744 @@
+{
+  "10": {
+    "rest_holidays": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 6,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "01",
+                "dateName": "개천절",
+                "locdate": 20251003,
+                "seq": 1,
+                "isHoliday": "Y"
+              },
+              {
+                "dateKind": "01",
+                "dateName": "추석",
+                "locdate": 20251005,
+                "seq": 1,
+                "isHoliday": "Y"
+              },
+              {
+                "dateKind": "01",
+                "dateName": "추석",
+                "locdate": 20251006,
+                "seq": 1,
+                "isHoliday": "Y"
+              },
+              {
+                "dateKind": "01",
+                "dateName": "추석",
+                "locdate": 20251007,
+                "seq": 1,
+                "isHoliday": "Y"
+              },
+              {
+                "dateKind": "01",
+                "dateName": "대체공휴일",
+                "locdate": 20251008,
+                "seq": 1,
+                "isHoliday": "Y"
+              },
+              {
+                "dateKind": "01",
+                "dateName": "한글날",
+                "locdate": 20251009,
+                "seq": 1,
+                "isHoliday": "Y"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "divisions_24": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "kst": "0941      ",
+                "dateKind": "03",
+                "dateName": "한로",
+                "locdate": 20251008,
+                "seq": 2,
+                "isHoliday": "N"
+              },
+              {
+                "kst": "1251      ",
+                "dateKind": "03",
+                "dateName": "상강",
+                "locdate": 20251023,
+                "seq": 1,
+                "isHoliday": "N"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "anniversaries": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 14,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "02",
+                "dateName": "국군의 날",
+                "locdate": 20251001,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "노인의 날",
+                "locdate": 20251002,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "세계 한인의 날",
+                "locdate": 20251005,
+                "seq": 2,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "재향군인의 날",
+                "locdate": 20251008,
+                "seq": 3,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "임산부의 날",
+                "locdate": 20251010,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "정신건강의 날",
+                "locdate": 20251010,
+                "seq": 2,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "스포츠의 날",
+                "locdate": 20251015,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "부마민주항쟁 기념일",
+                "locdate": 20251016,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "문화의 날",
+                "locdate": 20251018,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "경찰의 날",
+                "locdate": 20251021,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "국제연합일",
+                "locdate": 20251024,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "교정의 날",
+                "locdate": 20251028,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "금융의 날",
+                "locdate": 20251028,
+                "seq": 2,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "지방자치 및 균형발전의 날",
+                "locdate": 20251029,
+                "seq": 1,
+                "isHoliday": "N"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "sundry_days": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 0,
+          "pageNo": 1,
+          "items": ""
+        }
+      }
+    }
+  },
+  "05": {
+    "rest_holidays": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 3,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "01",
+                "dateName": "어린이날",
+                "isHoliday": "Y",
+                "seq": 1,
+                "locdate": 20250505
+              },
+              {
+                "dateKind": "01",
+                "dateName": "부처님오신날",
+                "isHoliday": "Y",
+                "seq": 2,
+                "locdate": 20250505
+              },
+              {
+                "dateKind": "01",
+                "dateName": "대체공휴일",
+                "isHoliday": "Y",
+                "seq": 1,
+                "locdate": 20250506
+              }
+            ]
+          }
+        }
+      }
+    },
+    "divisions_24": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "kst": "1457      ",
+                "dateKind": "03",
+                "dateName": "입하",
+                "isHoliday": "N",
+                "seq": 3,
+                "locdate": 20250505
+              },
+              {
+                "kst": "0355      ",
+                "dateKind": "03",
+                "dateName": "소만",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250521
+              }
+            ]
+          }
+        }
+      }
+    },
+    "anniversaries": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 15,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "02",
+                "dateName": "근로자의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250501
+              },
+              {
+                "dateKind": "02",
+                "dateName": "어린이 날",
+                "isHoliday": "N",
+                "seq": 4,
+                "locdate": 20250505
+              },
+              {
+                "dateKind": "02",
+                "dateName": "어버이 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250508
+              },
+              {
+                "dateKind": "02",
+                "dateName": "유권자의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250510
+              },
+              {
+                "dateKind": "02",
+                "dateName": "동학농민혁명 기념일",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250511
+              },
+              {
+                "dateKind": "02",
+                "dateName": "입양의 날",
+                "isHoliday": "N",
+                "seq": 2,
+                "locdate": 20250511
+              },
+              {
+                "dateKind": "02",
+                "dateName": "식품안전의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250514
+              },
+              {
+                "dateKind": "02",
+                "dateName": "스승의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250515
+              },
+              {
+                "dateKind": "02",
+                "dateName": "5·18민주화운동 기념일",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250518
+              },
+              {
+                "dateKind": "02",
+                "dateName": "성년의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250519
+              },
+              {
+                "dateKind": "02",
+                "dateName": "발명의 날",
+                "isHoliday": "N",
+                "seq": 2,
+                "locdate": 20250519
+              },
+              {
+                "dateKind": "02",
+                "dateName": "세계인의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250520
+              },
+              {
+                "dateKind": "02",
+                "dateName": "부부의 날",
+                "isHoliday": "N",
+                "seq": 2,
+                "locdate": 20250521
+              },
+              {
+                "dateKind": "02",
+                "dateName": "해외 파병용사의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250529
+              },
+              {
+                "dateKind": "02",
+                "dateName": "바다의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250531
+              }
+            ]
+          }
+        }
+      }
+    },
+    "sundry_days": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 1,
+          "pageNo": 1,
+          "items": {
+            "item": {
+              "dateKind": "04",
+              "dateName": "단오",
+              "locdate": 20250531,
+              "seq": 2,
+              "isHoliday": "N"
+            }
+          }
+        }
+      }
+    }
+  },
+  "07": {
+    "rest_holidays": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 0,
+          "pageNo": 1,
+          "items": ""
+        }
+      }
+    },
+    "divisions_24": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "kst": "0505      ",
+                "dateKind": "03",
+                "dateName": "소서",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250707
+              },
+              {
+                "kst": "2229      ",
+                "dateKind": "03",
+                "dateName": "대서",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250722
+              }
+            ]
+          }
+        }
+      }
+    },
+    "anniversaries": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 4,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "02",
+                "dateName": "정보보호의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250709
+              },
+              {
+                "dateKind": "02",
+                "dateName": "인구의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250711
+              },
+              {
+                "dateKind": "02",
+                "dateName": "북한이탈주민의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250714
+              },
+              {
+                "dateKind": "02",
+                "dateName": "유엔군 참전의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250727
+              }
+            ]
+          }
+        }
+      }
+    },
+    "sundry_days": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "04",
+                "dateName": "초복",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250720
+              },
+              {
+                "dateKind": "04",
+                "dateName": "중복",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250730
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "04": {
+    "rest_holidays": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 0,
+          "pageNo": 1,
+          "items": ""
+        }
+      }
+    },
+    "divisions_24": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "kst": "2149      ",
+                "dateKind": "03",
+                "dateName": "청명",
+                "locdate": 20250404,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "kst": "0456      ",
+                "dateKind": "03",
+                "dateName": "곡우",
+                "locdate": 20250420,
+                "seq": 1,
+                "isHoliday": "N"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "anniversaries": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 13,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "02",
+                "dateName": "4·3희생자 추념일",
+                "locdate": 20250403,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "예비군의 날",
+                "locdate": 20250404,
+                "seq": 2,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "식목일",
+                "locdate": 20250405,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "보건의 날",
+                "locdate": 20250407,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "대한민국임시정부 수립기념일",
+                "locdate": 20250411,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "도시농업의 날",
+                "locdate": 20250411,
+                "seq": 2,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "4·19혁명 기념일",
+                "locdate": 20250419,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "장애인의 날",
+                "locdate": 20250420,
+                "seq": 2,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "과학의 날",
+                "locdate": 20250421,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "정보통신의 날",
+                "locdate": 20250422,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "법의 날",
+                "locdate": 20250425,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "순직의무군경의 날",
+                "locdate": 20250425,
+                "seq": 2,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "충무공 이순신 탄신일",
+                "locdate": 20250428,
+                "seq": 1,
+                "isHoliday": "N"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "sundry_days": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 1,
+          "pageNo": 1,
+          "items": {
+            "item": {
+              "dateKind": "04",
+              "dateName": "한식",
+              "locdate": 20250405,
+              "seq": 2,
+              "isHoliday": "N"
+            }
+          }
+        }
+      }
+    }
+  },
+  "06": {
+    "rest_holidays": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "01",
+                "dateName": "임시공휴일(제21대 대통령 선거)",
+                "locdate": 20250603,
+                "seq": 1,
+                "isHoliday": "Y"
+              },
+              {
+                "dateKind": "01",
+                "dateName": "현충일",
+                "locdate": 20250606,
+                "seq": 1,
+                "isHoliday": "Y"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "divisions_24": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "kst": "1857      ",
+                "dateKind": "03",
+                "dateName": "망종",
+                "locdate": 20250605,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "kst": "1142      ",
+                "dateKind": "03",
+                "dateName": "하지",
+                "locdate": 20250621,
+                "seq": 1,
+                "isHoliday": "N"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "anniversaries": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 10,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "02",
+                "dateName": "의병의 날",
+                "locdate": 20250601,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "환경의 날",
+                "locdate": 20250605,
+                "seq": 2,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "현충일",
+                "locdate": 20250606,
+                "seq": 2,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "구강보건의 날",
+                "locdate": 20250609,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "6·10민주항쟁 기념일",
+                "locdate": 20250610,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "6·10만세운동 기념일",
+                "locdate": 20250610,
+                "seq": 2,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "전자정부의 날",
+                "locdate": 20250624,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "6·25전쟁일",
+                "locdate": 20250625,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "마약퇴치의 날",
+                "locdate": 20250626,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "02",
+                "dateName": "철도의 날",
+                "locdate": 20250628,
+                "seq": 1,
+                "isHoliday": "N"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "sundry_days": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 0,
+          "pageNo": 1,
+          "items": ""
+        }
+      }
+    }
+  },
+  "12": {
+    "rest_holidays": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "items": {
+            "item": {
+              "dateKind": "01",
+              "dateName": "기독탄신일",
+              "isHoliday": "Y",
+              "locdate": 20251225,
+              "seq": 1
+            }
+          },
+          "numOfRows": 100,
+          "pageNo": 1,
+          "totalCount": 1
+        }
+      }
+    },
+    "anniversaries": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "items": {
+            "item": [
+              {
+                "dateKind": "02",
+                "dateName": "소비자의 날",
+                "isHoliday": "N",
+                "locdate": 20251203,
+                "seq": 1
+              },
+              {
+                "dateKind": "02",
+                "dateName": "무역의 날",
+                "isHoliday": "N",
+                "locdate": 20251205,
+                "seq": 1
+              },
+              {
+                "dateKind": "02",
+                "dateName": "자원봉사자의 날",
+                "isHoliday": "N",
+                "locdate": 20251205,
+                "seq": 2
+              },
+              {
+                "dateKind": "02",
+                "dateName": "원자력 안전 및 진흥의 날",
+                "isHoliday": "N",
+                "locdate": 20251227,
+                "seq": 1
+              }
+            ]
+          },
+          "numOfRows": 100,
+          "pageNo": 1,
+          "totalCount": 4
+        }
+      }
+    },
+    "divisions_24": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "items": {
+            "item": [
+              {
+                "dateKind": "03",
+                "dateName": "대설",
+                "isHoliday": "N",
+                "kst": "0605      ",
+                "locdate": 20251207,
+                "seq": 1
+              },
+              {
+                "dateKind": "03",
+                "dateName": "동지",
+                "isHoliday": "N",
+                "kst": "0003      ",
+                "locdate": 20251222,
+                "seq": 1
+              }
+            ]
+          },
+          "numOfRows": 100,
+          "pageNo": 1,
+          "totalCount": 2
+        }
+      }
+    },
+    "sundry_days": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "items": "",
+          "numOfRows": 100,
+          "pageNo": 1,
+          "totalCount": 0
+        }
+      }
+    }
+  },
+  "01": {
+    "rest_holidays": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 5,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "01",
+                "dateName": "1월1일",
+                "isHoliday": "Y",
+                "seq": 1,
+                "locdate": 20250101
+              },
+              {
+                "dateKind": "01",
+                "dateName": "임시공휴일",
+                "isHoliday": "Y",
+                "seq": 1,
+                "locdate": 20250127
+              },
+              {
+                "dateKind": "01",
+                "dateName": "설날",
+                "isHoliday": "Y",
+                "seq": 1,
+                "locdate": 20250128
+              },
+              {
+                "dateKind": "01",
+                "dateName": "설날",
+                "isHoliday": "Y",
+                "seq": 1,
+                "locdate": 20250129
+              },
+              {
+                "dateKind": "01",
+                "dateName": "설날",
+                "isHoliday": "Y",
+                "seq": 1,
+                "locdate": 20250130
+              }
+            ]
+          }
+        }
+      }
+    },
+    "divisions_24": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "kst": "1133      ",
+                "dateKind": "03",
+                "dateName": "소한",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250105
+              },
+              {
+                "kst": "0500      ",
+                "dateKind": "03",
+                "dateName": "대한",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250120
+              }
+            ]
+          }
+        }
+      }
+    },
+    "anniversaries": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 0,
+          "pageNo": 1,
+          "items": ""
+        }
+      }
+    },
+    "sundry_days": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 0,
+          "pageNo": 1,
+          "items": ""
+        }
+      }
+    }
+  },
+  "03": {
+    "rest_holidays": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "01",
+                "dateName": "삼일절",
+                "isHoliday": "Y",
+                "seq": 1,
+                "locdate": 20250301
+              },
+              {
+                "dateKind": "01",
+                "dateName": "대체공휴일",
+                "isHoliday": "Y",
+                "seq": 1,
+                "locdate": 20250303
+              }
+            ]
+          }
+        }
+      }
+    },
+    "divisions_24": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "kst": "1707      ",
+                "dateKind": "03",
+                "dateName": "경칩",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250305
+              },
+              {
+                "kst": "1801      ",
+                "dateKind": "03",
+                "dateName": "춘분",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250320
+              }
+            ]
+          }
+        }
+      }
+    },
+    "anniversaries": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 6,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "02",
+                "dateName": "납세자의 날",
+                "isHoliday": "N",
+                "seq": 2,
+                "locdate": 20250303
+              },
+              {
+                "dateKind": "02",
+                "dateName": "3·8민주의거 기념일",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250308
+              },
+              {
+                "dateKind": "02",
+                "dateName": "3·15 의거 기념일",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250315
+              },
+              {
+                "dateKind": "02",
+                "dateName": "상공의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250319
+              },
+              {
+                "dateKind": "02",
+                "dateName": "의용소방대의 날",
+                "isHoliday": "N",
+                "seq": 2,
+                "locdate": 20250319
+              },
+              {
+                "dateKind": "02",
+                "dateName": "서해수호의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250328
+              }
+            ]
+          }
+        }
+      }
+    },
+    "sundry_days": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 0,
+          "pageNo": 1,
+          "items": ""
+        }
+      }
+    }
+  },
+  "08": {
+    "rest_holidays": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 1,
+          "pageNo": 1,
+          "items": {
+            "item": {
+              "dateKind": "01",
+              "dateName": "광복절",
+              "locdate": 20250815,
+              "seq": 1,
+              "isHoliday": "Y"
+            }
+          }
+        }
+      }
+    },
+    "divisions_24": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "kst": "1452      ",
+                "dateKind": "03",
+                "dateName": "입추",
+                "locdate": 20250807,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "kst": "0534      ",
+                "dateKind": "03",
+                "dateName": "처서",
+                "locdate": 20250823,
+                "seq": 1,
+                "isHoliday": "N"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "anniversaries": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 1,
+          "pageNo": 1,
+          "items": {
+            "item": {
+              "dateKind": "02",
+              "dateName": "섬의 날",
+              "locdate": 20250808,
+              "seq": 1,
+              "isHoliday": "N"
+            }
+          }
+        }
+      }
+    },
+    "sundry_days": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "04",
+                "dateName": "말복",
+                "locdate": 20250809,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "dateKind": "04",
+                "dateName": "칠석",
+                "locdate": 20250829,
+                "seq": 1,
+                "isHoliday": "N"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "09": {
+    "rest_holidays": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 0,
+          "pageNo": 1,
+          "items": ""
+        }
+      }
+    },
+    "divisions_24": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "kst": "1752      ",
+                "dateKind": "03",
+                "dateName": "백로",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250907
+              },
+              {
+                "kst": "0319      ",
+                "dateKind": "03",
+                "dateName": "추분",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250923
+              }
+            ]
+          }
+        }
+      }
+    },
+    "anniversaries": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 7,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "02",
+                "dateName": "푸른 하늘의 날",
+                "isHoliday": "N",
+                "seq": 2,
+                "locdate": 20250907
+              },
+              {
+                "dateKind": "02",
+                "dateName": "사회복지의 날",
+                "isHoliday": "N",
+                "seq": 3,
+                "locdate": 20250907
+              },
+              {
+                "dateKind": "02",
+                "dateName": "곤충의 날",
+                "isHoliday": "N",
+                "seq": 4,
+                "locdate": 20250907
+              },
+              {
+                "dateKind": "02",
+                "dateName": "해양경찰의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250910
+              },
+              {
+                "dateKind": "02",
+                "dateName": "청년의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250920
+              },
+              {
+                "dateKind": "02",
+                "dateName": "조달의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20250930
+              },
+              {
+                "dateKind": "02",
+                "dateName": "개인정보 보호의 날",
+                "isHoliday": "N",
+                "seq": 2,
+                "locdate": 20250930
+              }
+            ]
+          }
+        }
+      }
+    },
+    "sundry_days": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 0,
+          "pageNo": 1,
+          "items": ""
+        }
+      }
+    }
+  },
+  "11": {
+    "rest_holidays": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 0,
+          "pageNo": 1,
+          "items": ""
+        }
+      }
+    },
+    "divisions_24": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "kst": "1304      ",
+                "dateKind": "03",
+                "dateName": "입동",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20251107
+              },
+              {
+                "kst": "1036      ",
+                "dateKind": "03",
+                "dateName": "소설",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20251122
+              }
+            ]
+          }
+        }
+      }
+    },
+    "anniversaries": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 7,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "dateKind": "02",
+                "dateName": "학생독립운동 기념일",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20251103
+              },
+              {
+                "dateKind": "02",
+                "dateName": "소방의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20251109
+              },
+              {
+                "dateKind": "02",
+                "dateName": "농업인의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20251111
+              },
+              {
+                "dateKind": "02",
+                "dateName": "유엔참전용사 국제추모의 날",
+                "isHoliday": "N",
+                "seq": 2,
+                "locdate": 20251111
+              },
+              {
+                "dateKind": "02",
+                "dateName": "순국선열의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20251117
+              },
+              {
+                "dateKind": "02",
+                "dateName": "아동학대 예방의 날",
+                "isHoliday": "N",
+                "seq": 1,
+                "locdate": 20251119
+              },
+              {
+                "dateKind": "02",
+                "dateName": "김치의 날",
+                "isHoliday": "N",
+                "seq": 2,
+                "locdate": 20251122
+              }
+            ]
+          }
+        }
+      }
+    },
+    "sundry_days": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 0,
+          "pageNo": 1,
+          "items": ""
+        }
+      }
+    }
+  },
+  "02": {
+    "rest_holidays": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 0,
+          "pageNo": 1,
+          "items": ""
+        }
+      }
+    },
+    "divisions_24": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 2,
+          "pageNo": 1,
+          "items": {
+            "item": [
+              {
+                "kst": "2310      ",
+                "dateKind": "03",
+                "dateName": "입춘",
+                "locdate": 20250203,
+                "seq": 1,
+                "isHoliday": "N"
+              },
+              {
+                "kst": "1907      ",
+                "dateKind": "03",
+                "dateName": "우수",
+                "locdate": 20250218,
+                "seq": 1,
+                "isHoliday": "N"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "anniversaries": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 1,
+          "pageNo": 1,
+          "items": {
+            "item": {
+              "dateKind": "02",
+              "dateName": "2·28 민주운동 기념일",
+              "locdate": 20250228,
+              "seq": 1,
+              "isHoliday": "N"
+            }
+          }
+        }
+      }
+    },
+    "sundry_days": {
+      "response": {
+        "header": {
+          "resultCode": "00",
+          "resultMsg": "NORMAL SERVICE."
+        },
+        "body": {
+          "numOfRows": 100,
+          "totalCount": 1,
+          "pageNo": 1,
+          "items": {
+            "item": {
+              "dateKind": "04",
+              "dateName": "정월대보름",
+              "locdate": 20250212,
+              "seq": 1,
+              "isHoliday": "N"
+            }
+          }
+        }
+      }
+    }
+  }
+}
