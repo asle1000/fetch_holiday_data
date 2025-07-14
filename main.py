@@ -34,14 +34,15 @@ if __name__ == "__main__":
         processed += 1
         print(f"[{processed}/{total_months}] {year}년 {month:02d}월 처리 중...")
         data_map = {
+            "month": f"{month:02d}",
             "rest_holidays": get_rest_holidays(year, month),
             "anniversaries": get_anniversaries(year, month),
             "divisions_24": get_24_divisions(year, month),
             "sundry_days": get_sundry_days(year, month),
         }
         if year not in yearly_data:
-            yearly_data[year] = {}
-        yearly_data[year][f"{month:02d}"] = data_map
+            yearly_data[year] = []
+        yearly_data[year].append(data_map)
         print(f"  - 저장 완료")
 
     # holiday-json-repo/holidays/{year}.json 저장
