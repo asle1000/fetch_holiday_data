@@ -37,12 +37,12 @@ def save_holiday_json_to_repo(year: int, data: dict, repo_path: str):
 def git_commit_and_push(repo_path, file_path, message):
     cmds = [
         ['git', 'add', file_path],
-        ['git', 'stash'],
-        ['git', 'pull', '--rebase', 'origin', 'main'],
-        ['git', 'stash', 'pop'],
-        ['git', 'add', file_path],
+        # ['git', 'stash'],
+        # ['git', 'pull', '--rebase', 'origin', 'main'],
+        # ['git', 'stash', 'pop'],
+        # ['git', 'add', file_path],
         ['git', 'commit', '-m', message],
-        ['git', 'push', 'origin', 'main']
+        ['git', 'push', '--force', 'origin', 'main']
     ]
     for cmd in cmds:
         subprocess.run(cmd, cwd=repo_path, check=True)

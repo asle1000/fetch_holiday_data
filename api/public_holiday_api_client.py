@@ -1,3 +1,5 @@
+from ftplib import print_line
+
 import requests
 import os
 from dotenv import load_dotenv
@@ -18,6 +20,7 @@ def fetch_holiday_data(endpoint: str, year: int, month: int) -> dict:
         "numOfRows": 100
     }
     url = f"{BASE_URL}/{endpoint}?{urlencode(params)}"
+    print("url:", url)
     response = requests.get(url, verify=certifi.where())
     try:
         response.raise_for_status()
